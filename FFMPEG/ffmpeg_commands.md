@@ -2,7 +2,7 @@ Using the following test command in Ubuntu Wily:
 
 **"ffmpeg -i TestMySurround-en.dbr.ac3 -af -sofalizer sofa hrtf\ b_nh167.sofa -radius 3 -type time -o test.ac3"**
 
-- Documentation of why I chose these options located here:
+- Documentation of why I chose these options located [here](https://github.com/NathanJPlummer/VirtuAudNoggin-3D/blob/master/FFMPEG/ffmpeg_sofalizer_options.md).
 
 Results in the following error:
 
