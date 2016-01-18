@@ -2,6 +2,7 @@ ___
 #VirtuAudNoggin 3D ![Logo](http://i.imgur.com/aTQaCH6.png)
 ___
 - Project to use Open Source tools to create a high quality HRTF encoding GUI
+- [Logo License Information](https://github.com/NathanJPlummer/VirtuAudNoggin-3D/blob/master/Logo_License.md)
 
 ##Humble Start
 
