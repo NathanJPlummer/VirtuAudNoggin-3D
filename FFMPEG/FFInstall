@@ -20,6 +20,9 @@ sudo apt-get -y --force-yes install autoconf automake build-essential libass-dev
 # Install x264
 sudo apt-get install libx264-dev
 
+#Install yasm
+sudo apt-get install yasm
+
 #Install x265
 sudo apt-get -install cmake mercurial
 cd ~/ffmpeg_sources
