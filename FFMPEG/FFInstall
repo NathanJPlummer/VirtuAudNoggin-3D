@@ -6,7 +6,7 @@
 # Bash script to install latest version of ffmpeg with sofalizer support on Ubuntu Wily
 # Modified from https://gist.github.com/xdamman/e4f713c8cd1a389a5917
 # Inspired from https://gist.github.com/faleev/3435377
-#With additional info from https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu
+# With additional info from https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu
 
 #Create FFMPEG Sources folder
  mkdir ~/ffmpeg_sources
