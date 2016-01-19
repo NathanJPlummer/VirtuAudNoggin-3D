@@ -6,11 +6,9 @@ ___
 
 ##Humble Start
 
-If you're looking for some clever application or anything even remotely useful, move on.  This is nothing but a stream of conciousness concept right now.
+If you're looking for some clever application or anything even remotely useful, move on.  This is nothing but a stream of conciousness concept right now- and a pretty decent decent FFMPEG bash script.
 
-I'm currently enrolled in a JavaScript programming class.  I'm a programming begginer.  This project is WAY out of my current abilities.  I'm sharing my ideas in case someone with better skills (pretty much anyone) has some insights, but for now, this is nothing more than a side project I can use to learn building applications.
-
-FThere is currently no code here: for the time being this space will be used for nothing more than jotting down my thoughts and frustrations.
+I'm currently enrolled in a JavaScript programming class.  I'm a programming begginer.  This project is out of my current abilities- but I'm learning faster than anticipated.  I'm sharing my ideas in case someone with better skills has some insights, but for now, this is nothing more than a side project I can use to learn about building applications.
 
 ___
 ##What VirtuAudNoggin 3D is for
@@ -108,8 +106,8 @@ Due to its open-source nature, and its inclusion intoo FFMPEG, it theoretically 
 ##Workflow and Version Goals of VirtuAudNoggin
 
 ###Workflow
-1.  Decipher FFMPEG commands to filter audio with sofalizer
-2.  If necesarry, compile proper version of FFMPEG
+1.  Decipher FFMPEG commands to filter audio with sofalizer (DONE)
+2.  If necesarry, compile proper version of FFMPEG (DONE)
 3.  Create GTK Gui using glade
 
 ###Version Goals for VirtuAudNoggin 3D
