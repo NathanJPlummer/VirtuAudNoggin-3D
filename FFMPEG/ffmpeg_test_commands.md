@@ -1,14 +1,30 @@
+###Update 1/19/2016
+12:18 AM
+
+Testing Backend command for VirtuAudNoggin 3D
+
+./ffmpeg -i 'path/to/video' -vcodec copy -acodec flac -af "sofalizer=/path/to/file/hrtf_b_nh167.sofa:radius=3:type=time" -f matroska output.mkv
+
+In human language = Copy video with no change.  Convert audio to sofalizer spatialized stereo FLAC.  Output to MKV format.
+
+I tested this on a video with a 7.1 True HD file and it sounded fantastic.  WAY better then Dolby Headphone or Razer Surround.
+
+Notes so far:
+
+- The radius 3 effect is STRONG. Will play around with radius 2 and see what kind of results I get.
+- For now using FLAC to keep quality at max, but that may prove to have immensly large filesizes.  Will play around with other codecs as time goes on.
+
 ___
 ###Update 1/18/2016 11:30PM
 ___
 
 I managed to compile FFMPEG with options (bash script to be posted soon) and low and behold this worked!
 
-**./ffmpeg -i testy.ac3 -af "sofalizer=~/SofaFF/hrtf_b_nh167.sofa" output.flac**
+**./ffmpeg -i testy.ac3 -af "sofalizer=/path/to/file/hrtf_b_nh167.sofa" output.flac**
 
 From there I needed to figure out the sytnax for the options I wanted to use.  After some trial and error, this got a great result.
 
-**./ffmpeg -i testy.ac3 -af "sofalizer=~/SofaFF/hrtf_b_nh167.sofa:radius=3:type=time" output.flac**
+**./ffmpeg -i testy.ac3 -af "sofalizer=/path/to/file/hrtf_b_nh167.sofa:radius=3:type=time" output.flac**
 
 I'll upload the bash script now.
 
