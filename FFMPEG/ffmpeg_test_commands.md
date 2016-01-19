@@ -1,3 +1,15 @@
+___
+###Update 1/18/2016
+___
+
+According to [this](https://trac.ffmpeg.org/wiki/AudioChannelManipulation) website the synatax for solfalizer plugin is:
+
+"ffmpeg -i input.wav -af sofalizer=/path/to/sofa/file output.flac"
+
+Running this in Ubuntu, with both the system library and the static one provided by FFMPEG still returns the "No such filter" error, which confirms my suspicion that I'll have to complie FFMPEG from source with the --enable-netcdf option to use sofalizer.  Working on a batch script to do this now.
+___
+###Original Post
+___
 Using the following test command in Ubuntu Wily:
 
 **"ffmpeg -i TestMySurround-en.dbr.ac3 -af -sofalizer sofa hrtf\ b_nh167.sofa -radius 3 -type time -o test.ac3"**
