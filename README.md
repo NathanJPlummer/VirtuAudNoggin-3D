@@ -8,15 +8,15 @@ ___
 
 If you're looking for some clever application or anything even remotely useful, move on.  This is nothing but a stream of conciousness concept right now.
 
-I'm currently enrolled in a JavaScript programming class.  I'm a programming begginer.  This project is WAY out of my current abilities.  I'm sharing my ideas in case someone with better skills (pretty much anyone) has some ideas, but for now, this is nothing more than a side project I can use to learn building applications.
+I'm currently enrolled in a JavaScript programming class.  I'm a programming begginer.  This project is WAY out of my current abilities.  I'm sharing my ideas in case someone with better skills (pretty much anyone) has some insights, but for now, this is nothing more than a side project I can use to learn building applications.
 
-For now, this space will be used for nothing more than jotting down my thoughts and frustrations.
+FThere is currently no code here: for the time being this space will be used for nothing more than jotting down my thoughts and frustrations.
 
 ___
 ##What VirtuAudNoggin 3D is for
 ___
 
-I have  an above average, 7.1 speaker system at home.  I'm a surround sound aficianado and will only buy the version of a film that has the most high quality soundtrack (Right now this means Blu Ray).
+I have  an above average, 7.1 speaker system at home.  I'm a surround sound aficianado and will only buy the version of a film that has the highest quality soundtrack (right now this means Blu Ray).
 
 If I'm on the go, OR it's late at night, I'm using headphones.  This could mean a labtop or my android phone.  What I'd like is to use an HRTF filter to create a "Virtual" sound environment.
 
