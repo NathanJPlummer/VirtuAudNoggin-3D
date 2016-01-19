@@ -1,5 +1,19 @@
 ___
-###Update 1/18/2016
+###Update 1/18/2016 11:30PM
+___
+
+I managed to compile FFMPEG with options (bash script to be posted soon) and low and behold this worked!
+
+**./ffmpeg -i testy.ac3 -af "sofalizer=~/SofaFF/hrtf_b_nh167.sofa" output.flac**
+
+From there I needed to figure out the sytnax for the options I wanted to use.  After some trial and error, this got a great result.
+
+**./ffmpeg -i testy.ac3 -af "sofalizer=~/SofaFF/hrtf_b_nh167.sofa:radius=3:type=time" output.flac**
+
+I'll upload the bash script now.
+
+___
+###Update 1/18/2016 11 PM
 ___
 
 According to [this](https://trac.ffmpeg.org/wiki/AudioChannelManipulation) website the synatax for solfalizer plugin is:
