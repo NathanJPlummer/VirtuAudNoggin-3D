@@ -14,9 +14,9 @@ Explanation of options and why I chose them:
 
 - radius (3)
 
-Radius is the amount of stereo expansion, measured in a dsitance of meters.  Set it too low and your surround effect will be compressed.  The distance between the "closest" and "furthest" sounds will be minimal and unnoticeable.
+Radius is the amount of stereo expansion, measured in a distance of meters.  Set it too low and your surround effect will be compressed.  The distance between the "closest" and "furthest" sounds will be minimal and unnoticeable.
 
-Set it too far and the effect becomes too pronounced.  Keep in my we want the listener to be able to maintain the illusion of a multispeaker system using headphones.  If the effect is "too good" we risk alerting the user we are using an algorithm.  This is both distracting to the user and ruins the allusion of surround.
+Set it too far and the effect becomes too pronounced.  Keep in mind we want the listener to be able to maintain the illusion of a multispeaker system using headphones.  If the effect is "too good" we risk alerting the user we are using an algorithm.  This is both distracting to the user and ruins the illusion of surround.
 
 - type (time)
 
