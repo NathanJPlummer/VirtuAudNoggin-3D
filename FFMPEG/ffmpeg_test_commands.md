@@ -6,7 +6,7 @@ According to [this](https://trac.ffmpeg.org/wiki/AudioChannelManipulation) websi
 
 "ffmpeg -i input.wav -af sofalizer=/path/to/sofa/file output.flac"
 
-Running this in Ubuntu, with both the system library and the static one provided by FFMPEG still returns the "No such filter" error, which confirms my suspicion that I'll have to complie FFMPEG from source with the --enable-netcdf option to use sofalizer.  Working on a batch script to do this now.
+Running this in Ubuntu- with both the system library and the static one provided by FFMPEG- still returns the "No such filter" error, which confirms my suspicion that I'll have to complie FFMPEG from source with the --enable-netcdf option to use sofalizer.  Working on a batch script to do this now.
 ___
 ###Original Post
 ___
