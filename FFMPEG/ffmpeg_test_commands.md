@@ -1,3 +1,9 @@
+###Update 1/20/16
+
+Confirmed realtime playback using FFPLAY
+
+**./ffplay -i '/path/to/file'  -af "sofalizer=/path/to/sofa/filter:radius=2:type=time"**
+
 ###Update 1/19/2016
 12:18 AM
 
