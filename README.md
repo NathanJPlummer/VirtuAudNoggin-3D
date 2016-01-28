@@ -6,7 +6,7 @@ ___
 
 ##Humble Start
 
-If you're looking for some clever application, I'm afraid there's no application here.  You'll find nothing but a stream of conciousness concept right now- and a pretty decent FFMPEG bash script.
+If you're looking for a clever application, I'm afraid there's no application here.  This is a stream of conciousness concept right now- and a pretty decent FFMPEG bash script.
 
 I'm currently enrolled in a JavaScript programming class.  I'm a programming begginer.  This project is out of my current abilities- but I'm learning faster than anticipated.  I'm sharing my ideas in case someone with better skills has some insights, but for now, this is nothing more than a side project I can use to learn about building applications.
 
