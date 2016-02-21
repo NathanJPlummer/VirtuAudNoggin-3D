@@ -1,0 +1,1 @@
+./ffmpeg -i -vcodec copy -acodec flac -af "sofalizer=~/SofaFF/hrtf_b_nh167.sofa:radius=3:type=time" -f matroska "/path/to/file"
