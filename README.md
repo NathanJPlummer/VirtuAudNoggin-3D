@@ -99,7 +99,8 @@ Due to its open-source nature, and its inclusion into FFMPEG, it theoretically h
 ##Current Issues
 - [Requires special compiling rules](https://www.mail-archive.com/ffmpeg-cvslog@ffmpeg.org/msg17711.html) and hence likely not available for most pre-compliled FFMPEG binarys.
 - No Gui tools for use
-- [Poor FFMPEG documentation](https://ffmpeg.org/ffmpeg-filters.html#sofalizer)
+- ~~[Poor FFMPEG documentation](https://ffmpeg.org/ffmpeg-filters.html#sofalizer)~~
+	- Fixed by another developer who took a look at this project.  Thanks Richard!
 - Limited documentation of [differences](http://www.sofaconventions.org/mediawiki/index.php/Files) in [external SOFA files](http://sofacoustics.org/data/database/ari%20(altb)/).
 	- This may be a knowledge gap on my part.
 
